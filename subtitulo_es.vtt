@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+Hola. Hoy te enseñaré cómo configurar OBS
+
+00:00:05.000 --> 00:00:09.000
+para grabar en alta calidad.
+
+00:00:09.000 --> 00:00:13.000
+Primero. Ve a Ajustes, luego a Video.
+
+00:00:13.000 --> 00:00:17.000
+Selecciona resolución mil novecientos veinte por mil ochenta.
+
+00:00:17.000 --> 00:00:21.000
+Y ajusta los FPS a sesenta.
+
+00:00:21.000 --> 00:00:25.000
+Después. En Ajustes, entra a Salida.
+
+00:00:25.000 --> 00:00:29.000
+Ve a la pestaña Grabación.
+
+00:00:29.000 --> 00:00:33.000
+Escoge el formato MKV. Usa el codificador HEVC.
+
+00:00:33.000 --> 00:00:37.000
+Y mantén la escala de salida
+
+00:00:37.000 --> 00:00:41.000
+en mil novecientos veinte por mil ochenta.
+
+00:00:41.000 --> 00:00:45.000
+Ahora. En los ajustes de codificación.
+
+00:00:45.000 --> 00:00:49.000
+Selecciona CBR con una tasa de bits de treinta y cinco mil.
+
+00:00:49.000 --> 00:00:53.000
+Preajuste P cinco.
+
+00:00:53.000 --> 00:00:57.000
+Perfil Main. GPU cero. Y máximo de dos B frames.
+
+00:00:57.000 --> 00:01:02.000
+Con estas configuraciones, tus grabaciones en OBS
+
+00:01:02.000 --> 00:01:06.000
+tendrán excelente calidad y fluidez.

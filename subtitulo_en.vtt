@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+Hello. Today I will teach you how to set up OBS
+
+00:00:05.000 --> 00:00:09.000
+to record in high quality.
+
+00:00:09.000 --> 00:00:13.000
+First, go to Settings, then to Video.
+
+00:00:13.000 --> 00:00:17.000
+Select the resolution 1920 by 1080.
+
+00:00:17.000 --> 00:00:21.000
+And set the FPS to sixty.
+
+00:00:21.000 --> 00:00:25.000
+Next, go to Settings and enter Output.
+
+00:00:25.000 --> 00:00:29.000
+Go to the Recording tab.
+
+00:00:29.000 --> 00:00:33.000
+Choose MKV format. Use the HEVC encoder.
+
+00:00:33.000 --> 00:00:37.000
+And keep the output scale
+
+00:00:37.000 --> 00:00:41.000
+at 1920 by 1080.
+
+00:00:41.000 --> 00:00:45.000
+Now, in the encoding settings.
+
+00:00:45.000 --> 00:00:49.000
+Select CBR with a bitrate of thirty-five thousand.
+
+00:00:49.000 --> 00:00:53.000
+Preset P five.
+
+00:00:53.000 --> 00:00:57.000
+Profile Main. GPU zero. And a maximum of two B frames.
+
+00:00:57.000 --> 00:01:02.000
+With these settings, your OBS recordings
+
+00:01:02.000 --> 00:01:06.000
+will have excellent quality and smoothness.
